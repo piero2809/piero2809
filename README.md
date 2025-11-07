@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**piero2809/piero2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+📍 Valencia / Spain 
+💡 Apasionado por el desarrollo web y la inteligencia artificial
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que uso
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 ¿Cómo contactarme?
+- LinkedIn: [tu perfil](https://linkedin.com/in/...)
+- Email: tuemail@example.com
+
+## 🌱 Actualmente
+- Aprendiendo **Next.js**
+- Construyendo un portafolio personal
