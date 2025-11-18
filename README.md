@@ -18,7 +18,7 @@
 🔹 Apasionado por la **automatización** y el desarrollo de soluciones tecnológicas  
 🔹 Actualmente trabajando con **MySQL**, **Python** y **Linux**  
 🔹 Mejorando constantemente mis habilidades en **desarrollo web** y **DevOps**  
-🔹 📍 Basado en **Valencia, España**
+🔹 📍 Actualmente en **Valencia, España**
 
 ---
 
