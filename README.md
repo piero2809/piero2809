@@ -4,9 +4,9 @@
 
 ### 💻 Profesional IT | Desarrollador | Administrador de Sistemas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piero-funes-larios-44360a166/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piero2809)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierofl2005@gmail.com)
 
 </div>
 
@@ -14,10 +14,9 @@
 
 ## 🚀 Sobre mí
 
-🔹 Profesional IT con experiencia en **administración de bases de datos** y **sistemas Linux**  
 🔹 Apasionado por la **automatización** y el desarrollo de soluciones tecnológicas  
-🔹 Actualmente trabajando con **MySQL**, **Python** y **Linux**  
-🔹 Mejorando constantemente mis habilidades en **desarrollo web** y **DevOps**  
+🔹 Actualmente trabajando con **MySQL**, **Python**, **HTML**,  
+🔹 Mejorando constantemente mis habilidades en **desarrollo web** 
 🔹 📍 Actualmente en **Valencia, España**
 
 ---
