@@ -70,7 +70,7 @@
 ### Herramientas de Desarrollo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,antigravity" />
 </p>
 
 ---
