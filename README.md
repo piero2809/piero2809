@@ -104,23 +104,23 @@
 
 ## 🎯 Proyectos Destacados
 
-📌 Actualmente trabajando en:
+📌 Proyectos en desarrollo y aplicaciones funcionales:
 
-- 🔧 Administración y optimización de bases de datos MySQL
-- 🐧 Configuración y mantenimiento de sistemas Linux
-- 🐍 Desarrollo de aplicaciones Python con CRUD
-- 🌐 Exploración de tecnologías web modernas
+- 🧠 **Resilio**: Aplicación de neurociencia y psicología laboral para la detección de burnout (Test de Maslach). Desarrollada con **Python (Flask)** y **MySQL**, incluyendo un panel de gestión de pacientes.
+- 🎮 **RetroPlay**: Plataforma e-commerce de alquiler de videojuegos y consolas retro. Implementada con **PHP**, **JavaScript** y **MySQL** con gestión de stock en tiempo real.
+- 🐧 **Servidores Linux**: Configuración y despliegue de entornos web seguros (Nginx/Apache) con implementación de certificados SSL.
+- 🗄️ **Arquitectura de Datos**: Diseño, normalización y optimización de bases de datos relacionales para sistemas de gestión empresarial.
 
 ---
 
 ## 📚 Aprendizaje Continuo
 
-🌱 Actualmente estudiando:
+🌱 Actualmente profundizando en:
 
-- 📊 Análisis y diseño de bases de datos
-- 🔐 Seguridad en sistemas Linux
-- 🚀 DevOps y automatización
-- 🌐 Desarrollo web con Angular
+- 🔐 **Seguridad en Linux**: Hardening de servidores y auditoría básica de sistemas.
+- 🚀 **DevOps & Automatización**: Explorando CI/CD y scripts avanzados en Bash/Python para despliegues.
+- 🐍 **Ecosistema Python**: Perfeccionando lógica de backend y algoritmos de análisis de datos.
+- 🌐 **Frontend Moderno**: Mejorando la interactividad y experiencia de usuario con JavaScript puro y CSS avanzado.
 
 ---
 
