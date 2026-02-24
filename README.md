@@ -32,8 +32,11 @@
 ## 🚀 Sobre mí
 
 🔹 Apasionado por la **automatización** y el desarrollo de soluciones tecnológicas
+
 🔹 Actualmente trabajando con **MySQL**, **Python**, **HTML**
+
 🔹 Mejorando constantemente mis habilidades en **desarrollo web**
+
 🔹 📍 Actualmente en **Valencia, España**
 
 ---
