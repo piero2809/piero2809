@@ -108,7 +108,7 @@
 
 - 🧠 **Resilio**: Aplicación de neurociencia y psicología laboral para la detección de burnout (Test de Maslach). Desarrollada con **Python (Flask)** y **MySQL**, incluyendo un panel de gestión de pacientes.
 - 🎮 **RetroPlay**: Plataforma e-commerce de alquiler de videojuegos y consolas retro. Implementada con **PHP**, **JavaScript** y **MySQL** con gestión de stock en tiempo real.
-- 🐧 **Servidores Linux**: Configuración y despliegue de entornos web seguros (Nginx/Apache) con implementación de certificados SSL.
+- 🐧 **Servidores Linux**: Configuración y despliegue de entornos web seguros (Apache)
 - 🗄️ **Arquitectura de Datos**: Diseño, normalización y optimización de bases de datos relacionales para sistemas de gestión empresarial.
 
 ---
